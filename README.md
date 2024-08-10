@@ -2,9 +2,9 @@
 
 **Clone the repository:**
 
-    ```bash
+    
     git clone https://github.com/stanvir940/assignment-portfolio.git
-    ```
+    
 ## License
 
 See the [LICENSE](LICENSE) file for details.
